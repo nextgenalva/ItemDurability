@@ -1,0 +1,28 @@
+# ItemDurability Configuration
+
+# Durability display format
+# %current% = current durability
+# %max% = maximum durability
+# %percent% = durability percentage
+durability_format: "Durability: [%current%/%max%] (%percent%%)"
+
+# Durability text color (default value: GREEN)
+# Note: This color is only used as fallback if not using automatic color gradation
+# The durability text color will automatically change based on durability percentage:
+# 80-100% = GREEN (very good)
+# 60-79% = DARK_GREEN (good)
+# 40-59% = YELLOW (medium)
+# 20-39% = GOLD (low)
+# 10-19% = RED (very low)
+# 0-9% = DARK_RED (critical)
+durability_color: "GREEN"
+
+# Show warning when durability is low
+# Enable/disable low durability notifications
+enable_low_durability_warning: true
+
+# Percentage of durability considered low (%)
+low_durability_percentage: 10
+
+# Low durability warning color
+low_durability_color: "RED" 

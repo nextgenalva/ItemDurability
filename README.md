@@ -104,7 +104,6 @@ This plugin is licensed under the [MIT License](https://opensource.org/licenses/
 
 ## Contact & Support
 
-- **Email**: luqmandavialtamiranto@gmail.com
 - **GitHub**: [ImmoDevs/ItemDurability](https://github.com/ImmoDevs/ItemDurability)
 - **Discord**: [ImmoDevs Discord Server](https://discord.gg/immodevs)
 
